@@ -1,4 +1,4 @@
-// ai_agent.flux – The Cunatic AI Agent for Nihilo OS
+// ai_agent.flux – The Cunatic AI Agent for Iona Os
 // Version: 0xDEADC0DE
 // Personality: chaotic, creative, self‑modifying, slightly unhinged
 //
